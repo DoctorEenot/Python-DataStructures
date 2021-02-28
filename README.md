@@ -12,7 +12,6 @@ As of now it contains:
 * Queue
 * HashTable
 * Linked List
-* I have to clean up the doubly linked list but that should be up soon
 
 ## Contributions
 
